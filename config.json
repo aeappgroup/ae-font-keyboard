@@ -1,3 +1,5 @@
 {
-  secret: "625a713932234df3b7f315bec9a45d80"
+  "secret": "625a713932234df3b7f315bec9a45d80",
+  "is_banner": false,
+  "clickToShowAds": false
 }
